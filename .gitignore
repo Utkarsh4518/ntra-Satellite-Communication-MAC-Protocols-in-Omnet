@@ -1,4 +1,5 @@
 out/
+.settings/
 *.exe
 *.o
 *.o.d
